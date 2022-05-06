@@ -1,0 +1,3 @@
+emp={'empno':7856,'empname':'vasu','empdesig':'programmer','doj' :'06-05,22','salary':'2,00000'}
+for key,value in emp.items():
+   print(key,"   ",value)
