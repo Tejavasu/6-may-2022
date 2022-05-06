@@ -1,0 +1,3 @@
+student={'sno':5,'name':'vasu','gender':'male','group':'m.e.cs','result':8.5}
+for keys,value in student.items():
+    print(keys,"  ",value)
